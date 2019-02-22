@@ -23,6 +23,3 @@ berikut hasil eksekusi algoritma di atas
 
         latihan 2 menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
         berikut alur algoritmanya 
-        
-![3](https://user-images.githubusercontent.com/46886500/53249197-22774600-36ea-11e9-94f1-25d6be810ebd.PNG)
-
